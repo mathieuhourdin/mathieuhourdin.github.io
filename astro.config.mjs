@@ -14,16 +14,16 @@ export default defineConfig({
       [
         addClasses,
         {
-          h1: 'text-4xl font-bold font-mplus mb-10',
-          h2: 'text-2xl font-bold font-mplus mb-10',
+          h1: 'text-4xl font-bold font-mplus mb-6',
+          h2: 'text-2xl font-bold font-mplus mb-6',
           h3: 'text-xl font-bold font-mplus mb-6',
-          h4: 'text-lg font-bold font-mplus mb-10',
+          h4: 'text-lg font-bold font-mplus mb-4',
           h5: 'font-bold font-mplus',
           h6: 'font-bold font-mplus',
           img: 'border border-slate-300 dark:border-zinc-700 rounded-xl mb-6',
           p: 'mb-6',
           a: 'underline underline-offset-2 hover:text-orange-500 decoration-orange-500',
-          ul: 'list-disc'
+          ul: 'list-disc mb-6'
         }
       ]
     ]
