@@ -8,7 +8,14 @@ import addClasses from 'rehype-add-classes'
 // https://astro.build/config
 export default defineConfig({
   site: 'https://mathieuhourdin.github.io',
-  integrations: [sitemap(), react(), image(), tailwind()],
+  integrations: [
+    sitemap(),
+    react(),
+    image({
+      serviceEntryPoint: '@astrojs/image/sharp'
+    }),
+    tailwind()
+  ],
   markdown: {
     rehypePlugins: [
       [
