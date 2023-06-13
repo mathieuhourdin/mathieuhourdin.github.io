@@ -29,7 +29,7 @@ layout: ../../layouts/BlogPost.astro
 - Développer la culture de l’écrit pour structurer la pensée, partager les idées, et inscrire ce qu’on fait dans la durée.
 #### Créer graduellement à partir de l’existant
 - Se forcer à prendre du temps pour regarder et comprendre ce qui existe.
-- Avancer par petites touches simples à partir de ce qui existe, et éviter de vouloir tout refaire sur de bonnes bases ou de faire de trop gros bons.
+- Avancer par petites touches simples à partir de ce qui existe, et éviter de vouloir tout refaire sur de bonnes bases ou de faire de trop gros bonds.
 - Prendre le temps de réfléchir en exécutant, plutôt que d’entrer dans un tunnel d’exécution dont on sort abruti.
 - Laisser les choix et les idées se dégager de la construction du produit lui - même.
 #### Cultiver sa curiosité
