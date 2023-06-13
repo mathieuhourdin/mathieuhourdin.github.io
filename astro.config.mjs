@@ -16,7 +16,7 @@ export default defineConfig({
         {
           h1: 'text-4xl font-bold font-mplus mb-10',
           h2: 'text-2xl font-bold font-mplus mb-10',
-          h3: 'text-xl font-bold font-mplus mb-10',
+          h3: 'text-xl font-bold font-mplus mb-6',
           h4: 'text-lg font-bold font-mplus mb-10',
           h5: 'font-bold font-mplus',
           h6: 'font-bold font-mplus',
