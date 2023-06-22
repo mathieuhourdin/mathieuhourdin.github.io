@@ -1,5 +1,5 @@
 ---
-title: "Droite, Gauche, il faut réduire la vitesse"
+title: "Droite, Gauche, oui, mais avec modération"
 description: "Pourquoi le retour en grâce de la distinction droite / gauche doit être consommé avec modération"
 pubDate: "Jun 22 2023"
 heroImage: "/gauche-droite.png"
