@@ -4,6 +4,7 @@ description: "Sur les différences d'intérêt pour la politique"
 pubDate: 1663134489800
 heroImage: "/npa-manif.jpg"
 layout: ../../layouts/BlogPost.astro
+progress: 80
 ---
 
 La vie politique en démocratie repose essentiellement sur l’implication des citoyens dans une multitude d’institutions, allant du vote aux manifestations, et cette implication permet d’orienter la société. À plus forte raison en situation de crise comme aujourd’hui, pouvoir s’appuyer sur une implication importante des citoyens est un enjeux clé pour surmonter les difficultés. On l’a vu pour la crise sanitaire autour de la question de l’adhésion aux gestes barrières et à la stratégie vaccinale, et c’est à nouveau un élément clé pour les deux crises principales que nous avons à affronter, autour du partage de la valeur et de la crise écologique. L’implication est assez naturellement source de tensions : ceux qui s’impliquent ont besoin de ceux qui ne s’impliquent pas pour donner plus de force à leur combat, et voient souvent ce manque d’implication comme une forme d’égoïsme. Pourtant, l’implication n’est pas non plus toujours une démarche altruiste, et peut cacher parfois, dans le cas de personnes un peu “geek” de la politiques, des mécanismes tout à fait différents et peu applicables à l’ensemble de la population. Pour élargir la base de personnes investies dans la politique, et alors que nous vivons un changement de cycle dans la façon de s’impliquer, il y a aujourd’hui un besoin de clarifier ces différents mécanismes d’implication.  

@@ -4,6 +4,7 @@ description: "Comment construire du nouveau à partir de rien"
 pubDate: "Jul 08 2023"
 heroImage: "/artiste-au-travail.jpg"
 layout: ../../layouts/BlogPost.astro
+progress: 60
 ---
 
 

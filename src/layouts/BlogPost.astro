@@ -1,30 +1,36 @@
 ---
-import type { CollectionEntry } from 'astro:content';
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
+import type { CollectionEntry } from 'astro:content'
+import BaseHead from '../components/BaseHead.astro'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import FormattedDate from '../components/FormattedDate.astro'
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
+import ProgressBar from '../components/ProgressBar.astro'
 
 export interface Props {
   content: {
     title: string
     description: string
     heroImage?: string
+    progress?: number
   }
 }
 
 const {
-  content: { title, description, heroImage }
+  content: { title, description, heroImage, progress }
 } = Astro.props
-
 ---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <BaseHead title={title + ` / ${SITE_TITLE}`} description={description} image={heroImage} />
+    <BaseHead
+      title={title + ` / ${SITE_TITLE}`}
+      description={description}
+      image={heroImage}
+    />
   </head>
 
   <Body>
@@ -44,8 +50,11 @@ const {
             )
           }
         </div>
-        <h1 class="text-3xl my-1 font-mplus md:text-center text-left">{title}</h1>
+        <h1 class="text-3xl my-1 font-mplus md:text-center text-left">
+          {title}
+        </h1>
         <div class="md:text-center text-left">{description}</div>
+        <ProgressBar class="m-4" progress={progress} />
         <hr class="border-top border-zinc-400 my-4" />
         <slot />
         <span

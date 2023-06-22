@@ -6,6 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import Masterhead from '../components/Masterhead.astro'
+import ProgressBar from '../components/ProgressBar.astro'
 import { Image } from '@astrojs/image/components'
 
 const posts = await Astro.glob('./blog/*.md')
@@ -47,8 +48,9 @@ const posts = await Astro.glob('./blog/*.md')
                     <div class="mt-3 text-xl font-bold">{post.frontmatter.title}</div>
                     {post.frontmatter.description && (
                       <div class="opacity-70">
-                        {post.frontmatter.description}
+                          {post.frontmatter.description}
                       </div>
+                      <ProgressBar class="m-4" progress={post.frontmatter.progress} />
                     )}
                   </a>
                 </li>
