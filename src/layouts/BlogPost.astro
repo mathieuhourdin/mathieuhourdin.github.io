@@ -35,7 +35,7 @@ const {
           {
             heroImage && (
               <img
-                class="border border-slate-300 dark:border-zinc-700 rounded-xl"
+                class="border border-slate-300 dark:border-zinc-700 rounded-xl ml-auto mr-auto"
                 width={720}
                 height={360}
                 src={heroImage}
@@ -44,8 +44,8 @@ const {
             )
           }
         </div>
-        <h1 class="text-3xl my-1 font-mplus">{title}</h1>
-        <div>{description}</div>
+        <h1 class="text-3xl my-1 font-mplus md:text-center text-left">{title}</h1>
+        <div class="md:text-center text-left">{description}</div>
         <hr class="border-top border-zinc-400 my-4" />
         <slot />
         <span
