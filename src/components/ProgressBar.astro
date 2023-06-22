@@ -5,9 +5,13 @@ export interface Props {
 
 const { progress = 0 } = Astro.props
 
-const color = progress > 70 ? "bg-green-400" : "bg-orange-400";
+const color = (() => {
+  if (progress > 70) return 'bg-green-400'
+  if (progress > 50) return 'bg-orange-400'
+  return 'bg-red-400'
+})()
 ---
 
 <div class="gray-10 border-2 border-black m-2">
-    <div class={`${color} h-8`} style={`width: ${progress}%`}></div>
+  <div class={`${color} h-8`} style={`width: ${progress}%`}></div>
 </div>
