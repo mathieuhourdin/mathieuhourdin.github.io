@@ -30,11 +30,11 @@ Cette mascarade avait probablement un avantage. Le fait que l’opposition droit
   
 Aujourd’hui cependant, la notion de droite et de gauche est revenue au devant de la scène, pour de bonnes raisons parfois, mais aussi souvent de manière un peu superficielle. Un jeu assez répandu chez les jeunes politisés consiste à se demander si une chose quelconque est de gauche ou de droite, jeu qui a d’ailleurs donné lieu à une intelligence artificielle en ligne qui permet de répondre à cette question : 
   
-IA : <iframe style="margin: auto; margin-bottom: 100px; width: 80%; aspect-ratio: 2 / 1" src="https://degaucheoudedroite.delemazure.fr/" />s
+IA : <iframe style="margin: auto; margin-bottom: 100px; width: 95%; aspect-ratio: 2 / 1" src="https://degaucheoudedroite.delemazure.fr/" />s
   
 Et à des vidéos parodique sur youtube : 
    
-<iframe style="margin: auto; margin-bottom: 100px; width: 80%; aspect-ratio: 2 / 1" src="https://www.youtube.com/embed/N_1I1M2DE6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="margin: auto; margin-bottom: 50px; width: 95%; aspect-ratio: 2 / 1" src="https://www.youtube.com/embed/N_1I1M2DE6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
     
 Comment peut-on expliquer ce retour en grâce ?
