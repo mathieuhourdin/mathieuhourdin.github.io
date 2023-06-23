@@ -5,6 +5,7 @@ pubDate: "Jun 22 2023"
 heroImage: "/gauche-droite.png"
 layout: ../../layouts/BlogPost.astro
 progress: 40
+gdocLink: "https://docs.google.com/document/d/1IS1V1sFRvGTHqsnO9lFlk4q6I983Ra-GepEKtFVJI-M/edit"
 ---
 
 

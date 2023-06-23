@@ -1,0 +1,35 @@
+---
+title: "Pourquoi Macron n'est pas la startup nation"
+description: "Et pourquoi nous devons nous inspirer des startups"
+pubDate: "Jun 23 2023"
+heroImage: "/startup-nation.jpg"
+layout: ../../layouts/BlogPost.astro
+progress: 40
+gdocLink: "https://docs.google.com/document/d/12w20NYUnw81TmZKtaB7owaGGx3K9yNs9dBT10QnUVs4/edit"
+---
+
+
+Pendant la campagne présidentielle de 2017, Macron a tweeté : “Une start-up nation est une nation où chacun peut se dire qu’il pourra créer une start-up. Je veux que la France en soit une.”. Il a depuis été associé au terme de startup nation dans l’espace publique, et avant tout dans les critiques reçues de la gauche. C’est peut être un des plus gros hold-up réalisés par Emmanuel Macron. En effet, Macron c’est tout sauf la Startup Nation. Il a réussi à se donner un verni entrepreneurial, mais en réalité il n'est en rien de ce monde là. Macron vient des grands corps de l'État, en tant qu’inspecteur des finances, puis d'une grande banque d'investissement, en tant que banquier chez Rothschild.
+  
+Il est donc avant tout lié à des grandes organisations, et encore : il est très loin d'être un patron d'entreprise capable de gérer une diversité de salariés et d'activités, qui pourrait connaître la réalité de la gestion d’une entreprise comme un patron de PME, et certainement pas un bon manager capable de construire du durable. C'est quelqu'un capable d’entretenir des relations avec des gens importants, de négocier des deals et de faire des choix d'investissement sur d'autres grandes structures à partir d’analyses stratégiques.
+  
+Les startup c'est tout autre chose. Les startups sont arrivées dans les années 2000 et 2010, avec l'arrivée du web au cœur de l'économie, tandis que le monde de Macron (finance, conseil) est davantage le monde arrivé au pouvoir dans les années 80-90. Les startups ont représenté un renouveau dans l'économie, en permettant une approche plus volontariste et plus capable d'action et d'innovation, là où les grands groupes sont bloqués par leurs process trop lourds. Macron lui est beaucoup plus proche de McKinsey et de LVMH, avec qui il a des relations proches, que de l’univers et de la mentalité des startups.
+  
+Avant de défendre les vertues des startups et de la mentalité qui s’y est développée, il faut bien reconnaître quelques points noirs liés à la startup nation :
+- C'est un monde dominé par les fils à papa qui ont eu plein d'argent de leur famille pour créer leur boîte.
+- Une partie des startups repose sur des formes de dumping social ou écologique pour se développer. C’est le cas par exemple pour Uber qui s’est imposé en cassant les tarifs réglementés des taxis.
+- Une partie des startups est touchée par une idéologie de la compétition à tout prix, et du fait de sacrifier tout son temps à sa propre réussite économique. Souvent, cette idéologie est aussi une façon d'aller vers des contournements du code du travail en interne.
+
+Ce sont certainement ces aspects-là qui plaisent à Macron quand il dit vouloir une startup nation. Cependant, les startups représentent aussi une approche rafraîchissante de la façon de travailler, dont il serait idiot de se priver en les rejetant en bloc.
+
+- **Sortir de l’impuissance :** les startups viennent d’un besoin de remettre du mouvement dans l'immobilisme. Le principe est qu’un petit groupe de personnes motivées, avec des moyens réduits, et parfois peu de connaissance dans un domaine, est capable de créer des choses nouvelles et de concurrencer les grands groupes et leurs moyens démesurés. 
+- **Faire des petits pas :** Face à leurs défis, les startups ont développé diverses stratégies dont nous devons nous nourrir. Une des pratiques qui peut nous intéresser est celle de Proof Of Concept (POC). Lorsqu’on a une idée, ou une vision d’un produit qu’on veut proposer, la première étape est de construire une version minimale mais cohérente de ce produit, afin d’une part de tester face au réel ce que nous voulons mettre en place à plus grande échelle, et d’autre part de permettre de convaincre autour de ce projet.
+- **Créer une dynamique :** Pour une startup, qui démarre tout petit, la question est de créer une dynamique, et de prendre en force au fur et à mesure du temps. Cette dynamique est à la fois nécessaire pour l’interne, pour ceux qui travaillent sur le projet, et externe pour les personnes qui l’utilisent ou qui le financent. Il y a un rythme à prendre et à conserver sur la durée, pour maintenir un enthousiasme qui décuple les forces mises en œuvre. A la fin, en avançant régulièrement, on finit par déplacer des montagnes.
+- **Apprendre, et pouvoir faire des erreurs :** Créer cette dynamique demande de se projeter dans un apprentissage à long terme, qui passe par accepter de faire des erreurs à court terme. L’enjeu est évidemment de prendre des risques de façon contrôlée, pour faire des erreurs acceptables. La prise de risque augmente ensuite à mesure que le niveau de maîtrise et les moyens augmentent.
+  
+C’est finalement quelque chose qui ressemble à ce que nous allons devoir faire si nous arrivons au pouvoir. Nous devrons faire bouger des états de choses établis depuis longtemps, contre des puissances économiques disposant de moyens importants. Nous devrons rendre possible ce qui semble impossible aux personnes du milieu économique et politique. Comme le disait Roosevelt pendant la crise de 29, on ne nous en voudra pas d’échouer mais on nous en voudra de ne pas essayer. L’important pour faire cela sera de créer une dynamique. Nous ne pourrons pas régler tous les problèmes d’un coup de baguette magique, n’en déplaise à nos grands théoriciens économiques de gauche. Il faudra faire des essais et parvenir à quelques réussites qui soient susceptibles de créer un enthousiasme.
+   
+La proposition de François Ruffin sur le droit aux vacances (billet de train à 9€, péages gratuits et chèques vacances pour tous) est un exemple intéressant de ce genre de choses : pour des budgets et une prise de risque raisonnables, on est capables de démontrer que l’État peut faire des changements concrets dans le quotidien des gens si il a le courage d’imposer un certain nombre de choses (imposer aux compagnies d’autoroute un aller retour de péages gratuits par personne pour l’été par exemple). Si il réussit, nous aurons une légitimité d’autant plus forte pour imposer d’autres mesures de ce genre.
+   
+Le programme pour 2027 pourrait ainsi se résumer à une sorte de POC, une sorte de version miniature d’un projet de société que nous voulons voir aboutir. Il faudrait que ce programme soit atteignable et susceptible de servir d’exemple pour convaincre dans la société que nous pouvons faire advenir des changements désirables. Si la dynamique se met en place, que nous gagnons l’adhésion de suffisamment de franges de la population, des chômeurs aux patrons, que la haute administration se prend au jeu, nous serons alors en position de force pour faire imposer un certain nombre de mesures de plus grande ampleur (revoir le système de taxation, mettre en place des mesures de restriction écologiques importantes, gratuité de certains services publiques, etc..).
+

@@ -15,11 +15,12 @@ export interface Props {
     description: string
     heroImage?: string
     progress?: number
+    gdocLink?: string
   }
 }
 
 const {
-  content: { title, description, heroImage, progress }
+  content: { title, description, heroImage, progress, gdocLink }
 } = Astro.props
 ---
 
@@ -54,7 +55,16 @@ const {
           {title}
         </h1>
         <div class="md:text-center text-left">{description}</div>
-        <ProgressBar class="m-4" progress={progress} />
+        <div class="md:flex my-8">
+          <ProgressBar class="m-4" progress={progress} />
+          {
+            gdocLink && (
+              <a class="ml-auto underline" target="_blank" href={gdocLink}>
+                Ajouter un commentaire
+              </a>
+            )
+          }
+        </div>
         <hr class="border-top border-zinc-400 my-4" />
         <slot />
         <span
