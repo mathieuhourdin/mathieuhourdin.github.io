@@ -8,6 +8,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts'
 import Body from '../components/Body.astro'
 import Content from '../components/Content.astro'
 import ProgressBar from '../components/ProgressBar.astro'
+import Comment from '../components/Comment.astro'
 
 export interface Props {
   content: {
@@ -16,11 +17,12 @@ export interface Props {
     heroImage?: string
     progress?: number
     gdocLink?: string
+    comments: [string]
   }
 }
 
 const {
-  content: { title, description, heroImage, progress, gdocLink }
+  content: { title, description, heroImage, progress, gdocLink, comments = [] }
 } = Astro.props
 ---
 
@@ -67,6 +69,9 @@ const {
         </div>
         <hr class="border-top border-zinc-400 my-4" />
         <slot />
+        <div>
+          {comments.map(comment => <Comment comment={comment} />)}
+        </div>
         <span
           class="underline underline-offset-2 hover:text-orange-500 decoration-orange-500 text-2xl list-disc"
         ></span>

@@ -1,0 +1,11 @@
+---
+export interface Props {
+  comment: string
+}
+
+const { comment = '' } = Astro.props
+---
+
+<div class="border-2">
+    <div class="m-3">{comment}</div>
+</div>
